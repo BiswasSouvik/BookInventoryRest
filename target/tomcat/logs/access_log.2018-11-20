@@ -1,0 +1,1 @@
+0:0:0:0:0:0:0:1 - - [20/Nov/2018:18:49:37 +0530] "POST /bookInventoryREST/bookinventory/add HTTP/1.1" 200 86 http-bio-8082-exec-2 1757
